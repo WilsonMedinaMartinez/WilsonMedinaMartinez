@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola! Soy WILSON MEDINA 👋
 
-<!--
-**WilsonMedinaMartinez/WilsonMedinaMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Datos apasionado por transformar datos complejos en insights accionables para impulsar la toma de decisiones.
 
-Here are some ideas to get you started:
+### 🛠️ Mis Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Visualización de Datos:** Tableau, Power BI, Google Looker Studio
+- **Análisis de Datos:** Excel (Avanzado), SQL, Python (Pandas, NumPy)
+- **Bases de Datos:** MySQL, PostgreSQL
+- **Limpieza y Transformación de Datos:** Power Query
+
+### 🚀 Proyectos Destacados
+
+En mi portafolio encontrarás proyectos que demuestran mis habilidades en análisis de ventas, optimización de procesos y visualización interactiva de datos usando:
+
+-   Dashboards interactivos en Tableau
+-   Informes dinámicos en Power BI
+-   Modelos y análisis avanzados en Excel
+
+### 📫 Conéctate Conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-medina-martinez)
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/wilsonmedinamartinez)
+[![Correo Electrónico](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:WILSONMEDINA.VE@GMAIL.com)
+
+COMMIT: CREACION
