@@ -23,4 +23,6 @@ En mi portafolio encontrarás proyectos que demuestran mis habilidades en análi
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/wilsonmedinamartinez)
 [![Correo Electrónico](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:WILSONMEDINA.VE@GMAIL.com)
 
-COMMIT: CREACION
+### 📊 Ver Dashboard Interactivo en Power BI Service
+
+Explora el dashboard completo y interactivo aquí: [Enlace al Dashboard de Power BI](https://app.powerbi.com/view?r=...)
