@@ -1,4 +1,4 @@
-# ¡Hola! Soy WILSON MEDINA 👋
+# ¡Hola! Soy WILSON MEDINA 👋  #SherlockHomesDeLosDatos
 
 Analista de Datos apasionado por transformar datos complejos en insights accionables para impulsar la toma de decisiones.
 
@@ -27,3 +27,4 @@ En mi portafolio encontrarás proyectos que demuestran mis habilidades en análi
 
 Explora el dashboard completo y interactivo aquí:
 [![powerbi](https://1drv.ms/u/c/f581366a9702c9fb/IQSLZpbqoiFLTp5uSyVHIAxQASXpPYjElQrEMVlqf0I3JY)
+
