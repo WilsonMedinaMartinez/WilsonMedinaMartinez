@@ -25,5 +25,5 @@ En mi portafolio encontrarás proyectos que demuestran mis habilidades en análi
 
 ### 📊 Ver Dashboard Interactivo en Power BI Service
 
-Explora el dashboard completo y interactivo aquí:
+Explora el dashboard completo y interactivo (Inmoviliaria) aquí:
 https://app.powerbi.com/view?r=eyJrIjoiZWE1ZTU2MzAtN2JhZi00YjBkLTg2NjktY2RkNGI1ZWNlMzU3IiwidCI6ImVhNTY2ZmQ0LTNmNTUtNGIxNS05OWZlLWJiMmM3ZDFmYTJiNiIsImMiOjl9
