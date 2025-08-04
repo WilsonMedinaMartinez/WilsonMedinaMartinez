@@ -26,5 +26,4 @@ En mi portafolio encontrarás proyectos que demuestran mis habilidades en análi
 ### 📊 Ver Dashboard Interactivo en Power BI Service
 
 Explora el dashboard completo y interactivo aquí:
-[![powerbi](https://1drv.ms/u/c/f581366a9702c9fb/IQSLZpbqoiFLTp5uSyVHIAxQASXpPYjElQrEMVlqf0I3JY)
-
+https://app.powerbi.com/reportEmbed?reportId=d08a24c9-7f1c-4adc-ab75-971b6712a669&autoAuth=true&ctid=ea566fd4-3f55-4b15-99fe-bb2c7d1fa2b6
